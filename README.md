@@ -32,3 +32,7 @@ Kaggle competition with the objective of developing a model to predict housing p
 - The value of the model is that it is accurate and can facilitate real estate agency decision making and housing price prediction
 
 - <B>Key recommendation: trial first, then place model into production in order to drive operational/strategic real estate agency decision making.  Over time the model will continue to learn and increasingly become more accurate </B>
+
+---
+
+<img_src='https://i.imgur.com/HhZDbQy.png'>
