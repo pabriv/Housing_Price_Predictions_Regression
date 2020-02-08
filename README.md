@@ -35,4 +35,4 @@ Kaggle competition with the objective of developing a model to predict housing p
 
 ---
 
-<img_src='https://i.imgur.com/HhZDbQy.png'>
+<img_src=https://i.imgur.com/HhZDbQy.png>
