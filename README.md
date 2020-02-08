@@ -1,9 +1,9 @@
-# Project 2: Ames Housing Price Predictions
+# Regression Project: Ames Housing Price Predictions
 
 ---
 
 ## Context:
-Project 2 is a Kaggle competition with the objective of developing a model to predict housing prices in Ames Iowa based on historical data.  Over 100+ DSI students across the nation participated.  This model achieved a ranking within the top 15 based on RMSE and is valid for price predictions
+Kaggle competition with the objective of developing a model to predict housing prices in Ames Iowa based on historical data.  Over 100+ DSI students across the nation participated.  This model achieved a ranking within the top DSI 15 based on RMSE and is valid for price predictions
 
 ## Key objective:
  <B>
