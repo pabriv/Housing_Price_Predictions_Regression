@@ -3,7 +3,7 @@
 ---
 
 ## Context:
-Kaggle competition with the objective of developing a model to predict housing prices in Ames Iowa based on historical data.  Over 100+ DSI students across the nation participated.  This model achieved a ranking within the top DSI 15 based on RMSE and is valid for price predictions
+Kaggle competition with the objective of developing a model to predict housing prices in Ames Iowa based on historical data.  Only Regression models were allowed for competition.  Over 100+ DSI students across the nation participated. This model achieved a ranking within the top DSI 5% based on RMSE and is valid for price predictions.
 
 ## Key objective:
  <B>
